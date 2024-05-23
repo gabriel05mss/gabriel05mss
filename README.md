@@ -7,7 +7,7 @@ Atualmente, estou dedicando meu tempo ao estudo e aprofundamento em Estatística
 ## Interesses
 
 - **Estatística:** Tenho grande interesse em explorar dados, identificar padrões e aplicar métodos estatísticos para extrair insights valiosos.
-- **Programação:** Possuo habilidades em linguagens como Python e R, que são fundamentais para análise de dados e estatística computacional.
+- **Programação:** Possuo habilidades em linguagens como Python , R , Stan e C++
 - **Aprendizado de Máquina:** Estou explorando técnicas de aprendizado de máquina para complementar minha formação estatística e aplicá-las em problemas do mundo real.
 
 ## Objetivos
