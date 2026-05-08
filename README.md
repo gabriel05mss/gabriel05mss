@@ -31,6 +31,6 @@ Tenho interesse especial em projetos que conectem estatística, tecnologia e est
 ## Contato
 
 📫 E-mail: [gmoreira.silva2005@gmail.com](mailto:gmoreira.silva2005@gmail.com)
-💼 LinkedIn: linkedin.com/in/gabriel-moreira-73341a23b
+💼 LinkedIn: www.linkedin.com/in/gabriel-moreira-73341a23b
 
 Estou sempre aberto a aprender coisas novas, colaborar em projetos e trocar ideias sobre Estatística, Ciência de Dados, Machine Learning e modelagem quantitativa.
