@@ -1,23 +1,16 @@
-Olá! Eu sou Gabriel, um estudante de Estatística na Universidade Federal de Minas Gerais (UFMG).
+## Olá, eu sou Gabriel Moreira
 
-## Sobre Mim
+Sou estudante de Estatística na Universidade Federal de Minas Gerais (UFMG) e tenho grande interesse em modelagem estatística, ciência de dados, machine learning e otimização. Gosto de trabalhar em problemas que unem teoria, programação e tomada de decisão baseada em dados.
 
-Atualmente, estou dedicando meu tempo ao estudo e aprofundamento em Estatística, buscando ampliar meus conhecimentos teóricos e práticos nesta área fascinante.
+Atualmente, venho aprofundando meus estudos em inferência estatística, modelos mistos, previsão de séries temporais e métodos de machine learning aplicados a problemas reais. Também tenho interesse em modelagem Bayesiana e otimização matemática, especialmente em aplicações envolvendo logística, alocação e previsão de demanda.
 
-## Interesses
+Na programação, trabalho principalmente com R e Python, além de utilizar ferramentas como Stan, SQL e C++. Desenvolvo aplicações analíticas e dashboards interativos com Shiny, explorando bibliotecas voltadas para visualização, modelagem estatística e aprendizado de máquina.
 
-- **Estatística:** Tenho grande interesse em explorar dados, identificar padrões e aplicar métodos estatísticos para extrair insights valiosos.
-- **Programação:** Possuo habilidades em linguagens como Python , R , Stan e C++
-- **Aprendizado de Máquina:** Estou explorando técnicas de aprendizado de máquina para complementar minha formação estatística e aplicá-las em problemas do mundo real.
+Grande parte dos meus projetos envolve construção e avaliação de modelos, seleção de variáveis orientada por métricas de negócio, modelos com efeitos aleatórios e desenvolvimento de soluções quantitativas aplicadas. Tenho interesse especial em projetos que conectem estatística, tecnologia e estratégia.
 
-## Objetivos
+Além da parte técnica, também busco desenvolver uma visão mais ampla de negócios, analytics e tomada de decisão, com interesse em atuar futuramente em ambientes altamente analíticos e estratégicos.
 
-- **Desenvolvimento Profissional:** Busco aprimorar minhas habilidades em Estatística e Programação, visando contribuir de forma significativa em projetos e pesquisas.
-- **Contribuição Social:** Pretendo utilizar meus conhecimentos para contribuir positivamente para a sociedade, seja por meio de projetos acadêmicos, análise de dados aplicada a questões sociais ou participação em iniciativas comunitárias.
-
-## Contato
-
-Fique à vontade para entrar em contato comigo para discutir sobre Estatística, Análise de Dados ou qualquer outro tópico relacionado:
+Estou sempre aberto a aprender coisas novas, colaborar em projetos e trocar ideias sobre Estatística, Ciência de Dados, Machine Learning e modelagem quantitativa.
 
 - **E-mail:** gmoreira.silva2005.@gmail.com
 - **LinkedIn:** www.linkedin.com/in/gabriel-moreira-73341a23b
